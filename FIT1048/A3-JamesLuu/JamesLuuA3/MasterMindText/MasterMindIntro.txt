@@ -1,0 +1,30 @@
+A white-faced figure appears on screen. As it speaks,
+the jaw moves like a child was controlling it, or rather
+a psychotic engineer.
+
+"Hello there, I want to play a game.
+
+Fixed onto your skull is a death-trap. To disarm it, you 
+will have to figure out a random combination of letters 
+on the wired tablet in front of you.
+
+Every time you get the combination wrong, a set of 
+spikes will move closer towards your head. 
+If you run out of attempts, the spikes will have dug 
+into your brain (meaning you LOSE).
+
+The only mercy you will get are markings on the tablet,
+they will NOT be in order of where you put the letters.
+  '!' means you have a correct letter and position.
+  '?' means the correct letter, but the wrong position.
+  '_' means that a letter isn't there at all.
+  
+The death-trap can be as painful as a:
+  [0] Stinger     (10 attempts, 4 letters, 6 selections)
+  [1] Amputator   (13 attempts, 5 letters, 8 selections)
+  [2] Guillotine  (15 attempts, 6 letters, 9 selections)
+
+You may also beg for up to three [c]lues, accept your
+[f]ate, play t[h]is recording again or [q]uit the game.
+
+Live or die. Make your choice."

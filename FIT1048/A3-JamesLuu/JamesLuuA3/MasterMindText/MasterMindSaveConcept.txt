@@ -1,0 +1,6 @@
+playerName;Nameless
+playerScore;50
+playerGamesPlayed;2
+playerGamesWon;1
+playerGamesStreak;1
+playerSkillLevel;0
